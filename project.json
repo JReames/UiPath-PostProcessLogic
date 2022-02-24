@@ -1,7 +1,7 @@
 {
   "name": "ProcessEvaluation",
   "description": "Blank Process",
-  "main": "Main.xaml",
+  "main": "Excel_ProcessMatches.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.11.4]",
     "UiPath.Mail.Activities": "[1.12.3]",
@@ -46,8 +46,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "3115d8fb-d8ad-4af3-a3c1-6323a604c456",
+      "filePath": "Excel_ProcessMatches.xaml",
+      "uniqueId": "e473c9e8-3a25-4293-94ae-4059ccce6af6",
       "input": [],
       "output": []
     }
